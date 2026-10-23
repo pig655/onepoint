@@ -4,6 +4,13 @@
 
 本專案是純前端 React + TypeScript + Vite + SVG 應用，不需要後端、帳號或網路素材。所有幾何、投影、任務判定與檔案匯出都在瀏覽器內完成。
 
+## 線上使用
+
+- 網址：<https://pig655.github.io/onepoint/>
+- 學生可用平板掃描 QR Code：
+
+  ![QR Code](./qr-onepoint.png)
+
 ## 快速開始（Windows PowerShell）
 
 ```powershell
